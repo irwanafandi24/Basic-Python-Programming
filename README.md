@@ -1,7 +1,7 @@
 # Basic-Python-Programming
 Learn python is very easy and also simple, So let's start it now
 
-**What you will learn:**
+**What will you learn from this repository:**
 - Introduction to Python
 - Python Data Structure, List & List Operations
 - Conditional Statement
