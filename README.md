@@ -8,7 +8,7 @@ Learn python is very easy and also simple, So let's start it now
 - Loops and Programming Problems
 - Python Packages
 - Functions in Python and Programming Problems
-- Classes, Inheritance in Python and Programming Problems
+- Classes, Object Oriented Programming in Python and Programming Problems
 - Special Features in Python
 - File Handling in Python
 - Exception Handling in Python
